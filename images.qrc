@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/res">
+        <file>images/arkaPlan.png</file>
+        <file>images/ordek.png</file>
+        <file>images/vurulma.png</file>
+    </qresource>
+</RCC>
